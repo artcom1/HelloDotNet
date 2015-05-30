@@ -11,6 +11,7 @@ namespace HelloDotNet
         static void Main(string[] args)
         {
             System.Console.WriteLine("Hello");
+            System.Console.WriteLine("World");
         }
     }
 }
