@@ -12,5 +12,10 @@ namespace HelloDotNet
         public Klasa_Deweloperska()
         {
         }
+
+
+        void test()
+        {
+        }
     }
 }
