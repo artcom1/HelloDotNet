@@ -21,6 +21,7 @@ namespace HelloDotNet
             System.Console.WriteLine("77");
             //Komentarz
             int i = 0;
+            //V1
         }
     }
 }
