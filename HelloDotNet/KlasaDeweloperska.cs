@@ -20,6 +20,7 @@ namespace HelloDotNet
 
         public Klasa_Deweloperska()
         {
+            int i = 0;
         }
 
 
