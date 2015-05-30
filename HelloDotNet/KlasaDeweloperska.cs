@@ -8,6 +8,7 @@ namespace HelloDotNet
 {
     class Klasa_Deweloperska
     {
+        int a;
         int i;
         int j = 0;        
         int j;
