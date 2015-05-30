@@ -19,6 +19,7 @@ namespace HelloDotNet
             i += 4;
             ///Komentarz
             i += 1;
+            //V1
         }
     }
 }
