@@ -19,6 +19,8 @@ namespace HelloDotNet
             System.Console.WriteLine("5");
             System.Console.WriteLine("6");
             System.Console.WriteLine("77");
+            //Komentarz
+            int i = 0;
         }
     }
 }
