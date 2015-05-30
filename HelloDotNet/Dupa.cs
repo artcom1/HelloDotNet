@@ -12,6 +12,7 @@ namespace HelloDotNet
 
         public Dupa()
         {
+            i++;
         }
     }
 }
