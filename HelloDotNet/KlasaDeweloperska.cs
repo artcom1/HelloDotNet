@@ -8,5 +8,9 @@ namespace HelloDotNet
 {
     class Klasa_Deweloperska
     {
+
+        public Klasa_Deweloperska()
+        {
+        }
     }
 }
