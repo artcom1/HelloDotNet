@@ -8,6 +8,8 @@ namespace HelloDotNet
 {
     class Dupa
     {
+        int i = 0;
+
         public Dupa()
         {
         }
