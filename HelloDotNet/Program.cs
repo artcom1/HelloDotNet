@@ -22,6 +22,7 @@ namespace HelloDotNet
             //Komentarz
             int i = 0;
             //V1
+            //V2
         }
     }
 }
