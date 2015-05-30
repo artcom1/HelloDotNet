@@ -10,6 +10,8 @@ namespace HelloDotNet
     {
         int i;
         int j = 0;        
+        int j;
+        int k;
 
         public Klasa_Deweloperska()
         {
