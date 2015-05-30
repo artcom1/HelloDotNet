@@ -25,6 +25,9 @@ namespace HelloDotNet
             i += 1;
             i += 2;
             i += 3;
+            int j = 0;
+            j += 1;
+            j += 2;
         }
 
 
