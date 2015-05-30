@@ -13,6 +13,7 @@ namespace HelloDotNet
             System.Console.WriteLine("Hello");
             System.Console.WriteLine("World");
             System.Console.WriteLine("1");
+            System.Console.WriteLine("2");
         }
     }
 }
