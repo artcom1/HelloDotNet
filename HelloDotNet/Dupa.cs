@@ -13,6 +13,8 @@ namespace HelloDotNet
         public Dupa()
         {
             i++;
+            i += 1;
+            i += 3;
         }
     }
 }
