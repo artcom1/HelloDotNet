@@ -14,8 +14,11 @@ namespace HelloDotNet
         {
             i++;
             i += 1;
-            i += 32;
+            i += 31;
+            i++;
             i += 4;
+            ///Komentarz
+            i += 1;
         }
     }
 }
