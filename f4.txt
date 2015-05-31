@@ -6,4 +6,3 @@ e
 f
 -----
 Plik f3.txt
-a
