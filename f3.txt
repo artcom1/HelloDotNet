@@ -1,0 +1,8 @@
+aa
+b
+c
+dd
+e
+f
+-----
+Plik f3.txt
