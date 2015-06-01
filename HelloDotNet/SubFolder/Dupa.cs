@@ -9,6 +9,7 @@ namespace HelloDotNet
     class Dupa
     {
         int i = 0;
+        int j;       
 
         public Dupa()
         {
