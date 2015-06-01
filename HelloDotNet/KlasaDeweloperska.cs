@@ -10,7 +10,7 @@ namespace HelloDotNet
     {
         int a=0;
         int b=1;
-        int i;
+        int i=2;
         int j = 0;        
         int j;
         int k;
